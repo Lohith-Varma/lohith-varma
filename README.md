@@ -37,9 +37,9 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lohith-varma&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lohith-varma&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohith-varma&layout=compact&theme=radical" height="160" />
 </p>
 
 ---
@@ -56,5 +56,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=00F7FF&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=lohith-varma&label=Profile+Views&color=00F7FF&style=flat" />
 </p>
